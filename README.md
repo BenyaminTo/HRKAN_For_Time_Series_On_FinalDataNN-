@@ -63,7 +63,7 @@ Rows with missing values in any of these columns are dropped.
 **Before running:** update the `excel_path` variable near the top of the script to point to your local copy of the dataset:
 
 ```python
-excel_path = "C:/Users/Benyamin/Documents/KAN/FinalDataNN.xlsx"
+excel_path = "/FinalDataNN.xlsx"
 ```
 
 ## Hyperparameters
