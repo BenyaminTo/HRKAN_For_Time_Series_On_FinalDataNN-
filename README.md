@@ -91,7 +91,7 @@ excel_path = "/FinalDataNN.xlsx"
 Run the script directly:
 
 ```bash
-python HRKAN_LSTM_TS_for_FinalDataNN_2.py
+python HRKAN_LSTM_TS_for_FinalDataNN.py
 ```
 
 This will:
